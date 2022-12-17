@@ -67,7 +67,7 @@ def download_file(url, download_to: Path, expected_size=None):
 
 
 def main():
-    st.header("Real Time Speech-to-Text")
+    st.header("시켜줘 보아즈 명예 경찰관")
     st.markdown(
         """
 This demo app is using [DeepSpeech](https://github.com/mozilla/DeepSpeech),
